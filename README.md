@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Neeraj%20Suthar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18" />
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2B+Backend+Enthusiast;290%2B+LeetCode+Problems+Solved;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
@@ -47,7 +45,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/github-contribution-grid-snake.svg">
 </picture>
 
-> Regenerates daily via GitHub Actions — see setup step below.
+> Regenerates daily via GitHub Actions.
 
 ---
 
@@ -64,7 +62,5 @@
     <img src="https://komarev.com/ghpvc/?username=neerajsutha973r&icon=0&color=0" />
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
