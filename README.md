@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%2B+Backend+Enthusiast;290%2B+LeetCode+Problems+Solved;Building+AI-powered+applications;Welcome+to+my+GitHub+%F0%9F%91%8B"
+      src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%2B+Backend+Enthusiast;290%2B+Problems+On+Leetcode;Building+AI-powered+applications;Welcome+to+my+GitHub+%F0%9F%91%8B"
       alt="Typing SVG"
     />
   </a>
@@ -106,8 +106,6 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/dist/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
   <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
