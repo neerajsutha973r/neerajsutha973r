@@ -18,14 +18,29 @@
 
 ## 💫 About Me
 
-- 🔭 Currently building **Full-Stack and AI-powered applications**
-- 🤝 Open to collaborating on **Open-Source, Full-Stack, and AI projects**
-- 🌱 Currently learning **Generative AI, System Design, and Advanced Backend Development**
-- 💬 Ask me about **DSA, C++, JavaScript, React, Node.js, REST APIs, and Backend Development**
-- 🧠 Interested in **AI systems, backend architecture, and scalable applications**
-- ⚡ Solved **290+ LeetCode problems** and enjoy learning by building projects
+<p align="left">
+  <strong>🔭 Currently building Full-Stack and AI-powered applications</strong>
+</p>
 
----
+<p align="left">
+  <strong>🤝 Open to collaborating on Open-Source, Full-Stack, and AI projects</strong>
+</p>
+
+<p align="left">
+  <strong>🌱 Currently learning Generative AI, System Design, and Advanced Backend Development</strong>
+</p>
+
+<p align="left">
+  <strong>💬 Ask me about DSA, C++, JavaScript, React, Node.js, REST APIs, and Backend Development</strong>
+</p>
+
+<p align="left">
+  <strong>🧠 Interested in AI systems, backend architecture, and scalable applications</strong>
+</p>
+
+<p align="left">
+  <strong>⚡ Solved 290+ LeetCode problems and enjoy learning by building projects</strong>
+</p>
 
 ## 💬 Random Quote
 
