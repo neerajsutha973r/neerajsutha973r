@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2B+Backend+Enthusiast;290%2B+LeetCode+Problems+Solved;Building+AI-powered+applications;Welcome+to+my+GitHub+%F0%9F%91%8B"
+      src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%2B+Backend+Enthusiast;290%2B+LeetCode+Problems+Solved;Building+AI-powered+applications;Welcome+to+my+GitHub+%F0%9F%91%8B"
       alt="Typing SVG"
     />
   </a>
@@ -16,9 +16,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%92%AB+About+Me&repeat=false" alt="About Me" />
-</p>
+## 💫 About Me
 
 - 🔭 Currently building **Full-Stack and AI-powered applications**
 - 🤝 Open to collaborating on **Open-Source, Full-Stack, and AI projects**
@@ -29,34 +27,17 @@
 
 ---
 
+## 💬 Random Quote
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%9A%80+Featured+Project&repeat=false" alt="Featured Project" />
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+  </a>
 </p>
-
-### 🤖 AI Interview Platform
-
-An adaptive AI-powered technical interview platform designed to simulate a realistic interview experience.
-
-**Key features:**
-
-- 🎯 Adaptive interview difficulty based on candidate performance
-- 🤖 Gemini-powered question generation and answer evaluation
-- 🧠 Personalized follow-up and related questions
-- 🔍 Semantic duplicate-question detection using **Gemini Embeddings + pgvector**
-- 📊 Automatic scoring and interview feedback
-- 🎤 Voice-based interview experience
-- 🗃️ PostgreSQL + Neon database
-- 🔐 Authentication and protected interview sessions
-
-**Tech Stack:**
-
-`React` `Node.js` `Express.js` `PostgreSQL` `Neon` `pgvector` `Gemini API` `JavaScript`
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%8C%90+Connect+With+Me&repeat=false" alt="Connect With Me" />
-</p>
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -78,9 +59,7 @@ An adaptive AI-powered technical interview platform designed to simulate a reali
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%92%BB+Tech+Stack&repeat=false" alt="Tech Stack" />
-</p>
+## 💻 Tech Stack
 
 ### Languages
 
@@ -124,8 +103,11 @@ An adaptive AI-powered technical interview platform designed to simulate a reali
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A7%A0+What+I'm+Currently+Learning&repeat=false" alt="What I'm Currently Learning" />
+  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
+
 
 
