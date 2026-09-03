@@ -106,8 +106,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/dist/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/neerajsutha973r/neerajsutha973r/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 
 
