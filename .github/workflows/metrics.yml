@@ -5,65 +5,55 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   metrics:
-
     runs-on: ubuntu-latest
 
     steps:
 
-      # ═══════════════════════════════════════
       # 📊 Developer Overview
-      # ═══════════════════════════════════════
-
       - name: Developer Overview
         uses: lowlighter/metrics@latest
-
         with:
           filename: metrics-overview.svg
-
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
           user: neerajsutha973r
 
           base: header, activity, community, repositories, metadata
 
+          # 🏆 Achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
 
+          # 💻 Languages
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
 
-          plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 30
-
+          # ⭐ Stars
           plugin_stars: yes
           plugin_stars_limit: 5
 
+          # 🏷️ Topics
           plugin_topics: yes
           plugin_topics_limit: 10
 
           optimize: yes
 
 
-      # ═══════════════════════════════════════
-      # 🗓️ Contribution Universe
-      # ═══════════════════════════════════════
-
+      # 🗺️ Contribution Calendar
       - name: Contribution Calendar
         uses: lowlighter/metrics@latest
-
         with:
           filename: metrics-calendar.svg
-
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
           user: neerajsutha973r
 
           base: ""
@@ -71,25 +61,16 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-
           optimize: yes
 
 
-      # ═══════════════════════════════════════
       # 🧠 Coding Habits
-      # ═══════════════════════════════════════
-
       - name: Coding Habits
         uses: lowlighter/metrics@latest
-
         with:
           filename: metrics-habits.svg
-
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
           user: neerajsutha973r
 
           base: ""
