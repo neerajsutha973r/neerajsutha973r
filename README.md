@@ -48,7 +48,7 @@ and exploring **AI, backend engineering, and scalable systems**.
 
 <div align="center">
 
-<img src="./metrics-overview.svg" width="85%" alt="GitHub Statistics"/>
+<img src="./metrics-overview.svg" width="100%" alt="GitHub Statistics"/>
 
 </div>
 
@@ -58,6 +58,6 @@ and exploring **AI, backend engineering, and scalable systems**.
 
 <div align="center">
 
-<img src="./metrics-calendar.svg" width="85%" alt="GitHub Contribution Calendar"/>
+<img src="./metrics-calendar.svg" width="100%" alt="GitHub Contribution Calendar"/>
 
 </div>
