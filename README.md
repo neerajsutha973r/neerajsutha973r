@@ -4,95 +4,60 @@
 
 ### Full-Stack Developer · AI + Backend Enthusiast
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Outfit&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2B+Backend+Enthusiast;290%2B+LeetCode+Problems;Building+AI-powered+Applications;Learning+%26+Building+Every+Day"
-  alt="Typing SVG"
-/>
+Building modern applications with clean architecture, scalable backends,
+and AI-powered experiences.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/neeraj-suthar-117839385">
-<img src="https://img.shields.io/badge/LinkedIn-Neeraj%20Suthar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://portfolio-ten-wine-f2914lttwr.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge"/>
 </a>
-
+&nbsp;
+<a href="https://www.linkedin.com/in/neeraj-suthar-117839385">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/neerajsutha973r">
-<img src="https://img.shields.io/badge/GitHub-neerajsutha973r-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=neerajsutha973r&label=Profile%20Views&color=2E9EF7&style=flat"
-/>
+<img src="https://komarev.com/ghpvc/?username=neerajsutha973r&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-> I build software, solve problems, and learn by creating real-world applications.
+I'm a **Full-Stack Developer** focused on building real-world applications
+and exploring **AI, backend engineering, and scalable systems**.
 
-- 🔭 Building **Full-Stack and AI-powered applications**
-- 🤝 Open to **Open-Source, Full-Stack, and AI collaborations**
-- 🌱 Learning **Generative AI, System Design, and Advanced Backend Development**
-- 💬 Ask me about **DSA, C++, JavaScript, React, Node.js, REST APIs, and Backend Development**
-- 🧠 Interested in **AI systems, backend architecture, and scalable applications**
-- ⚡ **290+ LeetCode problems solved**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,react,nodejs,express,postgres,mongodb,git,github,docker,vscode" />
-
-</p>
+- 🔭 Currently building **Full-Stack & AI-powered applications**
+- 🤖 Learning **Generative AI**
+- 🏗️ Exploring **System Design & Advanced Backend Development**
+- 🧠 Interested in **AI systems, backend architecture & scalable applications**
+- 🏆 **290+ LeetCode problems solved**
+- 🤝 Open to **Open-Source, Full-Stack & AI collaborations**
+- 💬 Ask me about **C++, JavaScript, React, Node.js, REST APIs & Backend Development**
 
 ---
 
-# 📊 Developer Statistics
-
-<p align="center">
-<img src="./metrics-overview.svg" width="100%" alt="GitHub Developer Statistics"/>
-</p>
-
----
-
-# 🗺️ Contribution Universe
-
-<p align="center">
-<img src="./metrics-calendar.svg" width="100%" alt="GitHub Contribution Calendar"/>
-</p>
-
----
-
-# 🧠 Coding Habits
-
-<p align="center">
-<img src="./metrics-habits.svg" width="100%" alt="Coding Habits"/>
-</p>
-
----
-
-# 🧩 Problem Solving
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🏆 290+ LeetCode Problems
+<img src="./metrics-overview.svg" width="85%" alt="GitHub Statistics"/>
 
-```text
-Think
-  ↓
-Understand the Problem
-  ↓
-Brute Force
-  ↓
-Find the Bottleneck
-  ↓
-Optimize
-  ↓
-Analyze Complexity
-  ↓
-Write Clean Code
+</div>
+
+---
+
+## 🗺️ Contribution Calendar
+
+<div align="center">
+
+<img src="./metrics-calendar.svg" width="85%" alt="GitHub Contribution Calendar"/>
+
+</div>
